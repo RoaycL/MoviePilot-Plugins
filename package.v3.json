@@ -1,0 +1,16 @@
+{
+  "fnossign": {
+    "name": "飞牛论坛签到",
+    "description": "自动完成飞牛论坛每日签到，支持失败重试和历史记录",
+    "labels": ["签到"],
+    "version": "2.5.7",
+    "icon": "https://raw.githubusercontent.com/RoaycL/MoviePilot-Plugins/main/icons/fnos.ico",
+    "author": "RoaycL",
+    "level": 2,
+    "v2": true,
+    "v3": true,
+    "history": {
+      "v2.5.7": "个人维护版：支持 MoviePilot V3，内置阿里云 ESA 普通验证处理，自动每日签到"
+    }
+  }
+}
